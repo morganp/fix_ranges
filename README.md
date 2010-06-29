@@ -5,7 +5,7 @@ Offical Page is [Amaras-tech.co.uk][amaras]
 Usage
 =====
 
-    $ gemm install fix_ranges
+    $ gem install fix_ranges
     $ irb
     require 'rubygems'
     require 'fix_ranges'
