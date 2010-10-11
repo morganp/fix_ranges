@@ -9,7 +9,3 @@ class Range
    end
 
 end
-
-#(1..10).reverse.each {|a| puts a}
-#(1..10).revvvv.each {|a| puts a}
-
